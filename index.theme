@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Goshujinsama's green tea
+Comment=A dark flat design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Goshujinsama's green tea
+MetacityTheme=Goshujinsama's green tea
+IconTheme=Paper
+CursorTheme=Breeze_cursors
+
