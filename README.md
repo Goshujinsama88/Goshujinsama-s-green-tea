@@ -6,7 +6,7 @@ Goshujinsama's green tea is a theme for Cinnamon desktop manager, is **based in 
 **theme from Matcha GTK theme by vinceliuice**. This theme is aimmed to Linux Mint, so includes
 a modification of the GTK Theme for Nemo and other programs to match the Cinnamon Theme.
 
-[**Matcha GTK theme by vinceliuice:**](https://github.com/vinceliuice/Matcha-gtk-theme)
+Matcha GTK Theme by vinceliuice: [**https://github.com/vinceliuice/Matcha-gtk-theme**](https://github.com/vinceliuice/Matcha-gtk-theme)
 
 **Note:** This theme doesn't recieve any support from vinceliuice or the Matcha GTK Theme team.
 This theme was done modifiyng the css files directly, so I think maybe this will be the
