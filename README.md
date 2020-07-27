@@ -1,5 +1,5 @@
 # **Goshujinsama's green tea - Cinnamon Theme**
-____
+----
 
 ![Logo image.!](Icon_248.png "Goshujinsama's green tea icon")
 
@@ -20,7 +20,7 @@ This program comes with **ABSOLUTELY NO WARRANTY**. This is free software, and y
 to redistribute it under certain conditions.
 
 ## **Info**
-____
+----
 
 This theme requires  **GTK+ > 3.20**. The requirements for **GTK2** are:
 
@@ -35,7 +35,7 @@ through Terminal:
 This theme was tested in Linux Mint 18.3 Cinnamon and Linux Mint 19.3 Cinnamon.
 
 ## **Installation**
-____
+----
 
 You need to make the INSTALL.sh script executable with chmod command:
 
@@ -53,7 +53,7 @@ folder in $HOME/.themes.
 Also, you can change the menu button icon for the icon file "Icon_248.png" if you want.
 
 ## **Screenshots**
-____
+----
 
 ![Captura 01.!](img/cap01.png "Captura 01")
 
@@ -69,4 +69,4 @@ ____
 
 ### **Thanks for viewing**
 
-![Izumi.!](img/gtm_izumi.jpg.png "Izumi")
+![Izumi.!](img/gtm_izumi.jpg "Izumi")
