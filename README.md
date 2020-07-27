@@ -3,7 +3,7 @@
 ![Logo image.!](Icon_248.png "Goshujinsama's green tea icon")
 
 Goshujinsama's green tea is a theme for Cinnamon desktop manager, is **based in the Cinnamon**
-**theme from Matcha GTK theme by vinceliuice**. This theme is aimmed to Linux Mint, so includes
+**theme from Matcha GTK theme by vinceliuice**. This theme is aimed to Linux Mint, so includes
 a modification of the GTK Theme for Nemo and other programs to match the Cinnamon Theme.
 
 Matcha GTK Theme by vinceliuice: [**https://github.com/vinceliuice/Matcha-gtk-theme**](https://github.com/vinceliuice/Matcha-gtk-theme)
